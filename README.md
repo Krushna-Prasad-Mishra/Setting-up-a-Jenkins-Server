@@ -1,4 +1,4 @@
-# Setting-up-a-Jenkins-Server
+# Setting-up-a-Jenkins-Server-in-Linux
 
 ### Install Jenkins.
 
